@@ -9,7 +9,7 @@ I enjoy designing clean backends, reliable APIs, and responsive front-end interf
 - 💻 Core skills: Java, Spring Boot, REST APIs, MySQL, Servlets, JDBC
 - 🌱 Currently improving: Spring Boot best practices, testing, and system design basics
 - 📍 Location: Chennai / Bengaluru, India
-- 📫 Reach me: vimalraj.1950@gmail.com · [LinkedIn](https://linkedin.com/in/vimal-raj-8561a2311)
+- 📫 Reach me: vimalraj.1950@gmail.com · [LinkedIn](https://www.linkedin.com/in/vimalraj07/)
 
 ---
 
@@ -131,7 +131,7 @@ CGPA: 7.27 / 10
 ## 📫 Let’s Connect
 
 - Email: **vimalraj.1950@gmail.com**
-- LinkedIn: [linkedin.com/in/vimal-raj-8561a2311](https://linkedin.com/in/vimal-raj-8561a2311)
+- LinkedIn: [https://www.linkedin.com/in/vimalraj07/)
 - GitHub: [github.com/Vinal-dev](https://github.com/Vinal-dev)
 
 If you are hiring for Java / Spring Boot / backend roles or have interesting projects, I’d be happy to connect.
